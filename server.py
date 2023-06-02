@@ -15,4 +15,4 @@ def macro():
 
     return render_template('macro.html')
 
-app.run(debug=True) 
+app.run(debug=True)
