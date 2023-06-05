@@ -15,4 +15,9 @@ def macro():
 
     return render_template('macro.html')
 
+@app.route('/micro')
+def micro():
+    
+    return render_template('micro.html')
+
 app.run(debug=True)
