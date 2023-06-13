@@ -1,32 +1,88 @@
 
-<html lang="en" data-bs-theme="dark">
+<html lang="en">
+  <!-- data-bs-theme="dark" -->
 <head>
   <title>Data Journalism</title>
   <link rel="stylesheet" href="styles.css">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 </head>
+
 <body>
 
-  <header>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+
+      <nav class="navbar navbar-expand-lg bg-body-tertiary">
+        <div class="container-fluid">
+          <a class="navbar-brand" href="#"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="/">About</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/macro">Macro</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  By borough
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  {% for year in years %}
+                    <li><a class="dropdown-item" href="/micro?year={{year}}">{{ year }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  By category
+                </a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  {% for year in years %}
+                    <li><a class="dropdown-item" href="/category">{{ year }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+<!-- 
     <a href="/">About</a>
     <a href="/macro">Macro</a>
     <a href="/micro">Micro</a>
-  </header>
-
+ -->
   <h1>Data Journalism- Gloria Xia</h1>
 
   <div>
     This project explores the number of hate crimes that were recorded by the NYPD in NYC from 2019-2023. 
+    I was interested in this topic after seeing the news around the rise in hate crimes during the COVID-19 pandemic.
+    Given all of the news around this topic, I thought that it would be interesting to investigate the actual number of hate crimes
+    throughout recent years.
+    
   </div>
 
   <br>
 
   <div>
-    Important vocabulary:
+    Data pipeline:
     <li>
-      hate crime: the number includes any type of hate crimes
+      1. Download data from NYC Open Data as an CSV file
+    </li>
+    <li>
+      2. Import the CSV file into Google Sheets and delete all of the unnecessary columns
+    </li>
+    <li>
+      3. Convert the cleaned data into a json file
     </li>
   </div>
 
@@ -49,6 +105,21 @@
     <h3>
       Feedback
     </h3>
+    <p>
+      My peers suggested that I make the titles bigger and more noticable on all of my pages. They also suggested that I add 
+      color to the macro line graph. Additionally, they suggested that I make the labels on the x-axis to 
+      just include the first letter of the months, rather than all of the months spelled out.
+    </p>
+    <h3>
+      Takeaways
+    </h3>
+    <p>
+      I thought that my peers' advice was very helpful. I will make the titles of all my pages a larger font and bold them
+      so that they are more noticable for readers.
+      I will also add a color for when the mouse hovers over the line on the line graph, and I will 
+      make the different compenents of my graph, such as the labels and axes, into different colors.
+      I will also shortened the length of the labels on the x-axis of the line graph, so that they are not distracting.
+    </p>
   </div>
   
 

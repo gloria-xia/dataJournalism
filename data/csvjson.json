@@ -33,7 +33,7 @@
     "Year": 2019,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -87,7 +87,7 @@
     "Year": 2019,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -135,7 +135,7 @@
     "Year": 2019,
     "Month": 1,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -231,7 +231,7 @@
     "Year": 2019,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -273,13 +273,13 @@
     "Year": 2019,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -315,7 +315,7 @@
     "Year": 2019,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -357,13 +357,13 @@
     "Year": 2019,
     "Month": 2,
     "County": "RICHMOND",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -399,7 +399,7 @@
     "Year": 2019,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -423,7 +423,7 @@
     "Year": 2019,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -435,7 +435,7 @@
     "Year": 2019,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -459,7 +459,7 @@
     "Year": 2019,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -489,19 +489,13 @@
     "Year": 2019,
     "Month": 3,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2019,
-    "Month": 3,
-    "County": "NEW YORK",
-    "Category": "Religion"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -513,31 +507,37 @@
     "Year": 2019,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Religion"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
+  },
+  {
+    "Year": 2019,
+    "Month": 3,
+    "County": "NEW YORK",
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -555,7 +555,7 @@
     "Year": 2019,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -639,7 +639,7 @@
     "Year": 2019,
     "Month": 3,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -651,19 +651,19 @@
     "Year": 2019,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -675,25 +675,25 @@
     "Year": 2019,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "RICHMOND",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -705,13 +705,13 @@
     "Year": 2019,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -747,7 +747,7 @@
     "Year": 2019,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -771,7 +771,7 @@
     "Year": 2019,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -807,7 +807,7 @@
     "Year": 2019,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -873,7 +873,7 @@
     "Year": 2019,
     "Month": 4,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -885,7 +885,7 @@
     "Year": 2019,
     "Month": 4,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1071,7 +1071,7 @@
     "Year": 2019,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1113,7 +1113,7 @@
     "Year": 2019,
     "Month": 6,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1125,13 +1125,13 @@
     "Year": 2019,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1143,7 +1143,7 @@
     "Year": 2019,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1168,138 +1168,6 @@
     "Month": 6,
     "County": "KINGS",
     "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "RICHMOND",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "BRONX",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "QUEENS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "BRONX",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Gender"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "QUEENS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 6,
-    "County": "QUEENS",
-    "Category": "Religion"
   },
   {
     "Year": 2019,
@@ -1310,6 +1178,138 @@
   {
     "Year": 2019,
     "Month": 6,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "BRONX",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Ethnicity"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "QUEENS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Ethnicity"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Ethnicity"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "BRONX",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Gender"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Race"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "QUEENS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "QUEENS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
+    "County": "RICHMOND",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 6,
     "County": "QUEENS",
     "Category": "Gender"
   },
@@ -1341,7 +1341,7 @@
     "Year": 2019,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1353,7 +1353,7 @@
     "Year": 2019,
     "Month": 7,
     "County": "BRONX",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -1413,7 +1413,7 @@
     "Year": 2019,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1425,7 +1425,7 @@
     "Year": 2019,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1437,7 +1437,7 @@
     "Year": 2019,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1455,7 +1455,7 @@
     "Year": 2019,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1473,7 +1473,7 @@
     "Year": 2019,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1533,7 +1533,7 @@
     "Year": 2019,
     "Month": 8,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1575,13 +1575,13 @@
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1593,13 +1593,13 @@
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1611,19 +1611,19 @@
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1641,13 +1641,13 @@
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1665,7 +1665,7 @@
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -1713,13 +1713,13 @@
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1743,7 +1743,7 @@
     "Year": 2019,
     "Month": 8,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -1755,7 +1755,7 @@
     "Year": 2019,
     "Month": 8,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1785,7 +1785,7 @@
     "Year": 2019,
     "Month": 9,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -1797,13 +1797,13 @@
     "Year": 2019,
     "Month": 9,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -1905,7 +1905,7 @@
     "Year": 2019,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -2109,7 +2109,7 @@
     "Year": 2019,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -2121,7 +2121,7 @@
     "Year": 2019,
     "Month": 10,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -2181,7 +2181,7 @@
     "Year": 2019,
     "Month": 10,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -2193,19 +2193,19 @@
     "Year": 2019,
     "Month": 10,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 10,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 10,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -2241,7 +2241,7 @@
     "Year": 2019,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -2253,7 +2253,7 @@
     "Year": 2019,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -2319,7 +2319,7 @@
     "Year": 2019,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -2337,7 +2337,7 @@
     "Year": 2019,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -2355,7 +2355,7 @@
     "Year": 2019,
     "Month": 11,
     "County": "BRONX",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -2367,37 +2367,7 @@
     "Year": 2019,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
-  },
-  {
-    "Year": 2019,
-    "Month": 11,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 11,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 11,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2019,
-    "Month": 11,
-    "County": "BRONX",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2019,
-    "Month": 11,
-    "County": "KINGS",
-    "Category": "Religion"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -2421,13 +2391,43 @@
     "Year": 2019,
     "Month": 11,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2019,
+    "Month": 11,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 11,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 11,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 11,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2019,
+    "Month": 11,
+    "County": "BRONX",
+    "Category": "Race"
   },
   {
     "Year": 2019,
     "Month": 11,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -2451,7 +2451,7 @@
     "Year": 2019,
     "Month": 11,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -2463,7 +2463,7 @@
     "Year": 2019,
     "Month": 12,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
@@ -2511,7 +2511,7 @@
     "Year": 2019,
     "Month": 12,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -2541,7 +2541,7 @@
     "Year": 2019,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -2631,13 +2631,13 @@
     "Year": 2019,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2019,
     "Month": 12,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2019,
@@ -2733,7 +2733,7 @@
     "Year": 2020,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -2775,7 +2775,7 @@
     "Year": 2020,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -2811,13 +2811,13 @@
     "Year": 2020,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -2829,7 +2829,7 @@
     "Year": 2020,
     "Month": 1,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -2841,7 +2841,7 @@
     "Year": 2020,
     "Month": 1,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -2883,7 +2883,7 @@
     "Year": 2020,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -2913,19 +2913,13 @@
     "Year": 2020,
     "Month": 2,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2020,
-    "Month": 2,
-    "County": "KINGS",
-    "Category": "Religion"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -2936,14 +2930,20 @@
   {
     "Year": 2020,
     "Month": 2,
-    "County": "NEW YORK",
+    "County": "KINGS",
     "Category": "Religion"
   },
   {
     "Year": 2020,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Religion"
+  },
+  {
+    "Year": 2020,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -2991,7 +2991,7 @@
     "Year": 2020,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3081,7 +3081,7 @@
     "Year": 2020,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3093,31 +3093,31 @@
     "Year": 2020,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3135,13 +3135,13 @@
     "Year": 2020,
     "Month": 3,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3153,7 +3153,7 @@
     "Year": 2020,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3165,7 +3165,7 @@
     "Year": 2020,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3177,13 +3177,13 @@
     "Year": 2020,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3195,31 +3195,31 @@
     "Year": 2020,
     "Month": 3,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 3,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 3,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 3,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3231,7 +3231,7 @@
     "Year": 2020,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3249,25 +3249,25 @@
     "Year": 2020,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 4,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2020,
     "Month": 4,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3297,7 +3297,7 @@
     "Year": 2020,
     "Month": 4,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3315,7 +3315,7 @@
     "Year": 2020,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3339,7 +3339,7 @@
     "Year": 2020,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3381,13 +3381,13 @@
     "Year": 2020,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2020,
@@ -3405,7 +3405,7 @@
     "Year": 2020,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3435,13 +3435,13 @@
     "Year": 2020,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3471,7 +3471,7 @@
     "Year": 2020,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3489,19 +3489,19 @@
     "Year": 2020,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3525,7 +3525,7 @@
     "Year": 2020,
     "Month": 6,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3567,7 +3567,7 @@
     "Year": 2020,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3621,7 +3621,7 @@
     "Year": 2020,
     "Month": 7,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3651,49 +3651,49 @@
     "Year": 2020,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 7,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 7,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 7,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 7,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 7,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 7,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3711,13 +3711,13 @@
     "Year": 2020,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 8,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3735,7 +3735,7 @@
     "Year": 2020,
     "Month": 8,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3765,7 +3765,7 @@
     "Year": 2020,
     "Month": 8,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3789,7 +3789,7 @@
     "Year": 2020,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3801,25 +3801,25 @@
     "Year": 2020,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 8,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 8,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3831,19 +3831,19 @@
     "Year": 2020,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 9,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 9,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3867,13 +3867,13 @@
     "Year": 2020,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 9,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3903,7 +3903,7 @@
     "Year": 2020,
     "Month": 9,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -3999,7 +3999,7 @@
     "Year": 2020,
     "Month": 10,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -4023,7 +4023,7 @@
     "Year": 2020,
     "Month": 10,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -4041,13 +4041,13 @@
     "Year": 2020,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2020,
     "Month": 10,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -4059,7 +4059,7 @@
     "Year": 2020,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -4083,7 +4083,7 @@
     "Year": 2020,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -4161,7 +4161,7 @@
     "Year": 2020,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -4233,7 +4233,7 @@
     "Year": 2020,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -4275,13 +4275,13 @@
     "Year": 2020,
     "Month": 12,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
     "Month": 12,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -4299,31 +4299,7 @@
     "Year": 2020,
     "Month": 12,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
-  },
-  {
-    "Year": 2020,
-    "Month": 12,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2020,
-    "Month": 12,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2020,
-    "Month": 12,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2020,
-    "Month": 12,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2020,
@@ -4341,7 +4317,13 @@
     "Year": 2020,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Gender"
+    "Category": "Religion"
+  },
+  {
+    "Year": 2020,
+    "Month": 12,
+    "County": "NEW YORK",
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -4353,7 +4335,19 @@
     "Year": 2020,
     "Month": 12,
     "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2020,
+    "Month": 12,
+    "County": "KINGS",
     "Category": "Gender"
+  },
+  {
+    "Year": 2020,
+    "Month": 12,
+    "County": "KINGS",
+    "Category": "Religion"
   },
   {
     "Year": 2020,
@@ -4370,8 +4364,14 @@
   {
     "Year": 2020,
     "Month": 12,
+    "County": "KINGS",
+    "Category": "Gender"
+  },
+  {
+    "Year": 2020,
+    "Month": 12,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2020,
@@ -4383,7 +4383,7 @@
     "Year": 2020,
     "Month": 12,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4413,31 +4413,31 @@
     "Year": 2021,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
     "Month": 1,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4485,7 +4485,7 @@
     "Year": 2021,
     "Month": 1,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4497,13 +4497,13 @@
     "Year": 2021,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4515,7 +4515,7 @@
     "Year": 2021,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4563,19 +4563,19 @@
     "Year": 2021,
     "Month": 2,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 2,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4587,31 +4587,31 @@
     "Year": 2021,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 2,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4629,13 +4629,13 @@
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4647,61 +4647,61 @@
     "Year": 2021,
     "Month": 3,
     "County": "BRONX",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4713,7 +4713,7 @@
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4725,7 +4725,7 @@
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4749,19 +4749,19 @@
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4773,79 +4773,79 @@
     "Year": 2021,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4857,19 +4857,19 @@
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4881,49 +4881,49 @@
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -4959,49 +4959,49 @@
     "Year": 2021,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5019,7 +5019,7 @@
     "Year": 2021,
     "Month": 4,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5031,13 +5031,13 @@
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5049,7 +5049,7 @@
     "Year": 2021,
     "Month": 4,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5061,13 +5061,13 @@
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5079,43 +5079,43 @@
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5139,7 +5139,7 @@
     "Year": 2021,
     "Month": 4,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5157,13 +5157,13 @@
     "Year": 2021,
     "Month": 4,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5187,13 +5187,7 @@
     "Year": 2021,
     "Month": 4,
     "County": "BRONX",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 4,
-    "County": "BRONX",
-    "Category": "Religion"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5210,14 +5204,20 @@
   {
     "Year": 2021,
     "Month": 4,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
+    "County": "BRONX",
+    "Category": "Religion"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 4,
+    "County": "NEW YORK",
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5229,19 +5229,19 @@
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5319,7 +5319,7 @@
     "Year": 2021,
     "Month": 4,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5331,7 +5331,7 @@
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5349,13 +5349,13 @@
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 4,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5385,7 +5385,7 @@
     "Year": 2021,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5409,25 +5409,25 @@
     "Year": 2021,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5457,19 +5457,19 @@
     "Year": 2021,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5481,13 +5481,13 @@
     "Year": 2021,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
@@ -5505,7 +5505,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5529,7 +5529,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5541,7 +5541,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
@@ -5559,25 +5559,25 @@
     "Year": 2021,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5595,7 +5595,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5655,7 +5655,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5673,7 +5673,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5685,13 +5685,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 5,
-    "County": "KINGS",
-    "Category": "Religion"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5702,14 +5696,20 @@
   {
     "Year": 2021,
     "Month": 5,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2021,
+    "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5727,7 +5727,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5781,7 +5781,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5799,7 +5799,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5817,7 +5817,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5835,13 +5835,13 @@
     "Year": 2021,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5853,7 +5853,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5895,7 +5895,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
@@ -5955,7 +5955,7 @@
     "Year": 2021,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -5991,13 +5991,13 @@
     "Year": 2021,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6027,19 +6027,19 @@
     "Year": 2021,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6057,7 +6057,7 @@
     "Year": 2021,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6069,55 +6069,55 @@
     "Year": 2021,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6129,7 +6129,7 @@
     "Year": 2021,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6141,19 +6141,19 @@
     "Year": 2021,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6165,7 +6165,7 @@
     "Year": 2021,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6213,19 +6213,19 @@
     "Year": 2021,
     "Month": 6,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6261,7 +6261,7 @@
     "Year": 2021,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6303,19 +6303,19 @@
     "Year": 2021,
     "Month": 6,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 6,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6339,13 +6339,13 @@
     "Year": 2021,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
@@ -6370,192 +6370,6 @@
     "Month": 7,
     "County": "KINGS",
     "Category": "Religion"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "QUEENS",
-    "Category": "Gender"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "QUEENS",
-    "Category": "Gender"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "QUEENS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "QUEENS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "KINGS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "QUEENS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "QUEENS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "KINGS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "QUEENS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "QUEENS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "KINGS",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2021,
-    "Month": 7,
-    "County": "RICHMOND",
-    "Category": "Ethnicity/National Origin/Ancestry"
   },
   {
     "Year": 2021,
@@ -6573,6 +6387,192 @@
     "Year": 2021,
     "Month": 7,
     "County": "QUEENS",
+    "Category": "Gender"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "QUEENS",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "QUEENS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "KINGS",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "QUEENS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "QUEENS",
+    "Category": "Ethnicity"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "QUEENS",
+    "Category": "Ethnicity"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "QUEENS",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Ethnicity"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "KINGS",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "QUEENS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "QUEENS",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "KINGS",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "RICHMOND",
+    "Category": "Ethnicity"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "QUEENS",
+    "Category": "Gender"
+  },
+  {
+    "Year": 2021,
+    "Month": 7,
+    "County": "QUEENS",
     "Category": "Sexual Orientation"
   },
   {
@@ -6597,7 +6597,7 @@
     "Year": 2021,
     "Month": 8,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6615,7 +6615,7 @@
     "Year": 2021,
     "Month": 8,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
@@ -6663,7 +6663,7 @@
     "Year": 2021,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6681,7 +6681,7 @@
     "Year": 2021,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6699,7 +6699,7 @@
     "Year": 2021,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
@@ -6735,7 +6735,7 @@
     "Year": 2021,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6747,7 +6747,7 @@
     "Year": 2021,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6795,7 +6795,7 @@
     "Year": 2021,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6813,7 +6813,7 @@
     "Year": 2021,
     "Month": 9,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6843,7 +6843,7 @@
     "Year": 2021,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6861,7 +6861,7 @@
     "Year": 2021,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6915,7 +6915,7 @@
     "Year": 2021,
     "Month": 9,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6927,7 +6927,7 @@
     "Year": 2021,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -6981,7 +6981,7 @@
     "Year": 2021,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7029,7 +7029,7 @@
     "Year": 2021,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7047,7 +7047,7 @@
     "Year": 2021,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7065,19 +7065,19 @@
     "Year": 2021,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7113,7 +7113,7 @@
     "Year": 2021,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7143,7 +7143,7 @@
     "Year": 2021,
     "Month": 10,
     "County": "BRONX",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
@@ -7209,43 +7209,43 @@
     "Year": 2021,
     "Month": 10,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 10,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 10,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 10,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7275,13 +7275,13 @@
     "Year": 2021,
     "Month": 10,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 10,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7299,13 +7299,13 @@
     "Year": 2021,
     "Month": 10,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 10,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7329,19 +7329,19 @@
     "Year": 2021,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 10,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7359,25 +7359,25 @@
     "Year": 2021,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7413,7 +7413,7 @@
     "Year": 2021,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7467,7 +7467,7 @@
     "Year": 2021,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7485,7 +7485,7 @@
     "Year": 2021,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7509,19 +7509,19 @@
     "Year": 2021,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7539,13 +7539,13 @@
     "Year": 2021,
     "Month": 11,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7563,7 +7563,7 @@
     "Year": 2021,
     "Month": 11,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7587,7 +7587,7 @@
     "Year": 2021,
     "Month": 11,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7605,7 +7605,7 @@
     "Year": 2021,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7629,7 +7629,7 @@
     "Year": 2021,
     "Month": 12,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7659,7 +7659,7 @@
     "Year": 2021,
     "Month": 12,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7671,7 +7671,7 @@
     "Year": 2021,
     "Month": 12,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7689,13 +7689,13 @@
     "Year": 2021,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
     "Month": 12,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7707,7 +7707,7 @@
     "Year": 2021,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7761,31 +7761,31 @@
     "Year": 2021,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 12,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2021,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7821,7 +7821,7 @@
     "Year": 2021,
     "Month": 12,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2021,
@@ -7839,7 +7839,7 @@
     "Year": 2021,
     "Month": 12,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -7863,7 +7863,7 @@
     "Year": 2022,
     "Month": 1,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -7881,7 +7881,7 @@
     "Year": 2022,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -7899,7 +7899,7 @@
     "Year": 2022,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -7911,13 +7911,13 @@
     "Year": 2022,
     "Month": 1,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -7941,7 +7941,7 @@
     "Year": 2022,
     "Month": 1,
     "County": "BRONX",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -7971,19 +7971,19 @@
     "Year": 2022,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -7995,7 +7995,7 @@
     "Year": 2022,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -8013,13 +8013,13 @@
     "Year": 2022,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8031,13 +8031,13 @@
     "Year": 2022,
     "Month": 1,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 1,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8061,7 +8061,7 @@
     "Year": 2022,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -8133,25 +8133,19 @@
     "Year": 2022,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "KINGS",
-    "Category": "Religion"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8163,78 +8157,6 @@
     "Year": 2022,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "KINGS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "KINGS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
     "Category": "Religion"
   },
   {
@@ -8265,19 +8187,97 @@
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "KINGS",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "KINGS",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8301,7 +8301,7 @@
     "Year": 2022,
     "Month": 2,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8362,18 +8362,6 @@
     "Month": 2,
     "County": "NEW YORK",
     "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "QUEENS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "BRONX",
-    "Category": "Sexual Orientation"
   },
   {
     "Year": 2022,
@@ -8390,8 +8378,20 @@
   {
     "Year": 2022,
     "Month": 2,
+    "County": "QUEENS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "BRONX",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8403,13 +8403,13 @@
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8439,7 +8439,7 @@
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8463,102 +8463,12 @@
     "Year": 2022,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "QUEENS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Gender"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "QUEENS",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "BRONX",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "BRONX",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "BRONX",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 2,
-    "County": "KINGS",
     "Category": "Religion"
   },
   {
@@ -8570,6 +8480,66 @@
   {
     "Year": 2022,
     "Month": 2,
+    "County": "QUEENS",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "BRONX",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "BRONX",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "BRONX",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
     "County": "NEW YORK",
     "Category": "Religion"
   },
@@ -8577,7 +8547,37 @@
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Gender"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 2,
+    "County": "NEW YORK",
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8613,37 +8613,37 @@
     "Year": 2022,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8655,25 +8655,25 @@
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8727,19 +8727,19 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8763,19 +8763,19 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8811,25 +8811,25 @@
     "Year": 2022,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8853,7 +8853,7 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8871,19 +8871,19 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8895,13 +8895,13 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -8919,13 +8919,13 @@
     "Year": 2022,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8943,7 +8943,7 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8955,7 +8955,7 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -8967,7 +8967,7 @@
     "Year": 2022,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9009,7 +9009,7 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9021,13 +9021,13 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9039,7 +9039,7 @@
     "Year": 2022,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9051,7 +9051,7 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9063,7 +9063,7 @@
     "Year": 2022,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9099,13 +9099,13 @@
     "Year": 2022,
     "Month": 4,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 4,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9129,7 +9129,7 @@
     "Year": 2022,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9153,19 +9153,19 @@
     "Year": 2022,
     "Month": 4,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 4,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 4,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9189,13 +9189,13 @@
     "Year": 2022,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9207,7 +9207,7 @@
     "Year": 2022,
     "Month": 4,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9231,7 +9231,7 @@
     "Year": 2022,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9255,7 +9255,7 @@
     "Year": 2022,
     "Month": 4,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9267,7 +9267,7 @@
     "Year": 2022,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9285,13 +9285,13 @@
     "Year": 2022,
     "Month": 4,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9345,13 +9345,13 @@
     "Year": 2022,
     "Month": 4,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9375,7 +9375,7 @@
     "Year": 2022,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9429,7 +9429,7 @@
     "Year": 2022,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9453,13 +9453,13 @@
     "Year": 2022,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 5,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9495,7 +9495,7 @@
     "Year": 2022,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9519,7 +9519,7 @@
     "Year": 2022,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9531,7 +9531,7 @@
     "Year": 2022,
     "Month": 5,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9567,25 +9567,25 @@
     "Year": 2022,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 5,
     "County": "BRONX",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 5,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9645,7 +9645,7 @@
     "Year": 2022,
     "Month": 5,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9669,13 +9669,13 @@
     "Year": 2022,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 5,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9735,13 +9735,13 @@
     "Year": 2022,
     "Month": 6,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9777,13 +9777,13 @@
     "Year": 2022,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9795,7 +9795,7 @@
     "Year": 2022,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9843,43 +9843,43 @@
     "Year": 2022,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -9921,7 +9921,7 @@
     "Year": 2022,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -9963,48 +9963,6 @@
     "Year": 2022,
     "Month": 6,
     "County": "KINGS",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2022,
-    "Month": 6,
-    "County": "RICHMOND",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 6,
-    "County": "RICHMOND",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 6,
-    "County": "NEW YORK",
-    "Category": "Sexual Orientation"
-  },
-  {
-    "Year": 2022,
-    "Month": 6,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 6,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 6,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 6,
-    "County": "NEW YORK",
     "Category": "Sexual Orientation"
   },
   {
@@ -10016,20 +9974,8 @@
   {
     "Year": 2022,
     "Month": 6,
-    "County": "NEW YORK",
+    "County": "RICHMOND",
     "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 6,
-    "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
   },
   {
     "Year": 2022,
@@ -10041,7 +9987,61 @@
     "Year": 2022,
     "Month": 6,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 6,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 6,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 6,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2022,
+    "Month": 6,
+    "County": "RICHMOND",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 6,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 6,
+    "County": "KINGS",
+    "Category": "Ethnicity"
+  },
+  {
+    "Year": 2022,
+    "Month": 6,
+    "County": "NEW YORK",
+    "Category": "Sexual Orientation"
+  },
+  {
+    "Year": 2022,
+    "Month": 6,
+    "County": "NEW YORK",
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10077,7 +10077,7 @@
     "Year": 2022,
     "Month": 6,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10095,7 +10095,7 @@
     "Year": 2022,
     "Month": 6,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10125,13 +10125,13 @@
     "Year": 2022,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -10173,19 +10173,19 @@
     "Year": 2022,
     "Month": 7,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10203,25 +10203,25 @@
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10239,7 +10239,7 @@
     "Year": 2022,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10263,13 +10263,13 @@
     "Year": 2022,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10287,13 +10287,7 @@
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 7,
-    "County": "RICHMOND",
-    "Category": "Religion"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10310,6 +10304,12 @@
   {
     "Year": 2022,
     "Month": 7,
+    "County": "RICHMOND",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 7,
     "County": "KINGS",
     "Category": "Religion"
   },
@@ -10323,7 +10323,7 @@
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -10335,7 +10335,7 @@
     "Year": 2022,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10347,7 +10347,7 @@
     "Year": 2022,
     "Month": 7,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10383,37 +10383,37 @@
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10461,25 +10461,13 @@
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 7,
     "County": "NEW YORK",
-    "Category": "Race/Color"
-  },
-  {
-    "Year": 2022,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 7,
-    "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10490,14 +10478,26 @@
   {
     "Year": 2022,
     "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Race"
+  },
+  {
+    "Year": 2022,
+    "Month": 7,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 7,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10509,7 +10509,7 @@
     "Year": 2022,
     "Month": 8,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -10521,7 +10521,7 @@
     "Year": 2022,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10533,7 +10533,7 @@
     "Year": 2022,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10551,7 +10551,7 @@
     "Year": 2022,
     "Month": 8,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -10569,13 +10569,13 @@
     "Year": 2022,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 8,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10587,31 +10587,31 @@
     "Year": 2022,
     "Month": 8,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 8,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 8,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 8,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 8,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10623,13 +10623,13 @@
     "Year": 2022,
     "Month": 8,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 8,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10665,7 +10665,7 @@
     "Year": 2022,
     "Month": 8,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10677,13 +10677,13 @@
     "Year": 2022,
     "Month": 8,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 8,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10695,7 +10695,7 @@
     "Year": 2022,
     "Month": 8,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -10737,7 +10737,7 @@
     "Year": 2022,
     "Month": 8,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10773,7 +10773,7 @@
     "Year": 2022,
     "Month": 8,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10785,7 +10785,7 @@
     "Year": 2022,
     "Month": 8,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -10833,13 +10833,13 @@
     "Year": 2022,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -10857,25 +10857,25 @@
     "Year": 2022,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -10929,7 +10929,7 @@
     "Year": 2022,
     "Month": 9,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10941,7 +10941,7 @@
     "Year": 2022,
     "Month": 9,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10959,13 +10959,13 @@
     "Year": 2022,
     "Month": 9,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -10977,49 +10977,49 @@
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11037,7 +11037,7 @@
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11079,7 +11079,7 @@
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11097,73 +11097,73 @@
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 9,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11181,7 +11181,7 @@
     "Year": 2022,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11229,13 +11229,13 @@
     "Year": 2022,
     "Month": 10,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 10,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11253,7 +11253,7 @@
     "Year": 2022,
     "Month": 10,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11271,7 +11271,7 @@
     "Year": 2022,
     "Month": 10,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11283,37 +11283,7 @@
     "Year": 2022,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
-  },
-  {
-    "Year": 2022,
-    "Month": 10,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 10,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 10,
-    "County": "KINGS",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 10,
-    "County": "NEW YORK",
-    "Category": "Religion"
-  },
-  {
-    "Year": 2022,
-    "Month": 10,
-    "County": "NEW YORK",
-    "Category": "Religion"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11336,8 +11306,38 @@
   {
     "Year": 2022,
     "Month": 10,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 10,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 10,
+    "County": "NEW YORK",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 10,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 10,
+    "County": "KINGS",
+    "Category": "Religion"
+  },
+  {
+    "Year": 2022,
+    "Month": 10,
+    "County": "KINGS",
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11355,7 +11355,7 @@
     "Year": 2022,
     "Month": 10,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11367,7 +11367,7 @@
     "Year": 2022,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11385,7 +11385,7 @@
     "Year": 2022,
     "Month": 10,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11433,7 +11433,7 @@
     "Year": 2022,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11445,7 +11445,7 @@
     "Year": 2022,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11457,7 +11457,7 @@
     "Year": 2022,
     "Month": 11,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11511,7 +11511,7 @@
     "Year": 2022,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11583,7 +11583,7 @@
     "Year": 2022,
     "Month": 11,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11631,25 +11631,25 @@
     "Year": 2022,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 11,
     "County": "BRONX",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11661,7 +11661,7 @@
     "Year": 2022,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11697,13 +11697,13 @@
     "Year": 2022,
     "Month": 11,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11727,13 +11727,13 @@
     "Year": 2022,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11751,7 +11751,7 @@
     "Year": 2022,
     "Month": 12,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11781,7 +11781,7 @@
     "Year": 2022,
     "Month": 12,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2022,
@@ -11805,31 +11805,31 @@
     "Year": 2022,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
     "Month": 12,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2022,
@@ -11895,7 +11895,7 @@
     "Year": 2023,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -11907,55 +11907,55 @@
     "Year": 2023,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -11979,7 +11979,7 @@
     "Year": 2023,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -11991,13 +11991,13 @@
     "Year": 2023,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2023,
@@ -12021,25 +12021,25 @@
     "Year": 2023,
     "Month": 1,
     "County": "BRONX",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 1,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -12069,7 +12069,7 @@
     "Year": 2023,
     "Month": 1,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -12123,13 +12123,13 @@
     "Year": 2023,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2023,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2023,
@@ -12159,7 +12159,7 @@
     "Year": 2023,
     "Month": 2,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -12201,13 +12201,13 @@
     "Year": 2023,
     "Month": 2,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 2,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -12219,13 +12219,13 @@
     "Year": 2023,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 2,
     "County": "QUEENS",
-    "Category": "Ethnicity/National Origin/Ancestry"
+    "Category": "Ethnicity"
   },
   {
     "Year": 2023,
@@ -12255,7 +12255,7 @@
     "Year": 2023,
     "Month": 2,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -12285,13 +12285,13 @@
     "Year": 2023,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -12303,19 +12303,19 @@
     "Year": 2023,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 3,
     "County": "QUEENS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -12351,7 +12351,7 @@
     "Year": 2023,
     "Month": 3,
     "County": "NEW YORK",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -12369,19 +12369,19 @@
     "Year": 2023,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 3,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 3,
     "County": "RICHMOND",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
@@ -12561,13 +12561,13 @@
     "Year": 2023,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,
     "Month": 3,
     "County": "KINGS",
-    "Category": "Race/Color"
+    "Category": "Race"
   },
   {
     "Year": 2023,

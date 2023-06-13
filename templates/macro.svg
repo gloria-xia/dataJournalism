@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="800" height="500">
+
+
+    <line class="axis" x1="50" y1="250" x2="50" y2="50" stroke = "black"/>
+    <line class="axis" x1="50" y1="250" x2="400" y2="250" stroke = "black"/>
+    <text class="label" x="210" y="275">Year</text>
+    <text class="label" x="-20" y="150">Number of hate crimes</text>
+
+
+    <g class="lineGraph">
+    <{% for point in endpoints %}
+        <line class="lineGraph" x1="{{60+loop.index0*7}}" y1="{{200-point[0]}}" x2="{{60+(loop.index0+1)*7}}" y2="{{200-point[1]}}" stroke="black"/>
+    {% endfor %}>
+    </g>
+
+</svg>
