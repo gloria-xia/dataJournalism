@@ -1,16 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="800" height="500">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" width="1200" height="1000">
 
 
-    <line class="axis" x1="50" y1="250" x2="50" y2="50" stroke = "black"/>
-    <line class="axis" x1="50" y1="250" x2="400" y2="250" stroke = "black"/>
-    <text class="label" x="210" y="275">Category of hate crime</text>
-    <text class="label" x="-20" y="150">Number crimes</text>
+    <line class="axis" x1="100" y1="290" x2="100" y2="00" stroke = "black"/>
+    <line class="axis" x1="100" y1="290" x2="760" y2="290" stroke = "black"/>
+    <text class="label" x="400" y="345">Category of hate crime</text>
+    <text class="label" x="50" y="150">Number crimes</text>
 
 
     <g class="barGraph">
     <{% for category in categories %}
-        <rect class="bar" x="{{20+loop.index0*90}}" y="{{200-typeCount['category']}}" width="80" height="{{typeCount['category']}}"/>
-        <text class="label" x="{{60+loop.index0*90}}" y="170">{{category}}</text>
+        <text class="label" x="{{150+loop.index0*90}}" y="{{280-typeCount[category]}}">{{typeCount[category]}}</text>
+        <rect class="bar" x="{{120+loop.index0*90}}" y="{{290-typeCount[category]}}" width="70" height="{{typeCount[category]}}"/>
+        <text class="label" x="{{150+loop.index0*90}}" y="310">{{category}}</text>
     {% endfor %}>
     </g>
 

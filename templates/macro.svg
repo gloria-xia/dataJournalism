@@ -1,15 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="800" height="500">
+<!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="800" height="500"> -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="1200" height="1000">
 
 
-    <line class="axis" x1="50" y1="250" x2="50" y2="50" stroke = "black"/>
-    <line class="axis" x1="50" y1="250" x2="400" y2="250" stroke = "black"/>
-    <text class="label" x="210" y="275">Year</text>
-    <text class="label" x="-20" y="150">Number of hate crimes</text>
+    <line class="axis" x1="100" y1="250" x2="100" y2="0" stroke = "black"/>
+    <line class="axis" x1="100" y1="250" x2="700" y2="250" stroke = "black"/>
+    <!-- <text class="label" x="210" y="275">Year</text> -->
+    <text class="label" x="50" y="150">Number of</text>
+    <text class="label" x="50" y="170"> hate crimes</text>
 
 
     <g class="lineGraph">
     <{% for point in endpoints %}
-        <line class="lineGraph" x1="{{60+loop.index0*7}}" y1="{{200-point[0]}}" x2="{{60+(loop.index0+1)*7}}" y2="{{200-point[1]}}" stroke="black"/>
+        <line class="lineGraph" x1="{{100+loop.index0*12.5}}" y1="{{200-point[0]*2}}" x2="{{100+(loop.index0+1)*12.5}}" y2="{{200-point[1]*2}}" stroke="black"/>
+    {% endfor %}>
+    </g>
+
+    <g class='x-label'>
+    <{% for month in months %}
+        <text class="label" x="{{100+loop.index0*15}}" y="270">{{month}}</text>
     {% endfor %}>
     </g>
 

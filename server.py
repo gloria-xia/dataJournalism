@@ -32,6 +32,8 @@ def macro():
     count2022 = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0, 8: 0, 9: 0, 10: 0, 11: 0, 12: 0}
     count2023 = {1: 0, 2: 0, 3: 0}
 
+    avg = len(data)/4
+
     for point in data:
         tempYear = point['Year']
         month = point['Month']
@@ -52,22 +54,33 @@ def macro():
     macroData[2022] = count2022
     macroData[2023] = count2023
 
+
     years = sorted(list(macroData.keys()))
 
     endpoints =[]
 
     for year in macroData:
-        year = macroData[year]
-        month = sorted(list(year.keys()))
-        for i in range (len(year)-1):
+        yearData = macroData[yearData]
+        month = sorted(list(yearData.keys()))
+        for i in range (len(yearData)-1):
             tempMonth = month[i]
-            start_x = year[tempMonth]
+            start_x = yearData[tempMonth]
             endMonth = month[i+1]
-            end_x = year[endMonth]
+            end_x = yearData[endMonth]
             endpoints.append([start_x, end_x])
+        if year == 2019:
+            endpoints.append([37, 30])
+        elif year == 2020:
+            endpoints.append([31, 17])
+        elif year == 2021:
+            endpoints.append([38, 48])
+        elif year == 2022:
+            endpoints.append([25, 43])
     print(endpoints)
 
-    return render_template('macro.html', endpoints = endpoints, years = years)
+    months = ['J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D', 'J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D', 'J', 'F', 'M', 'A', 'M', 'J', 'J', 'A', 'S', 'O', 'N', 'D','J', 'F', 'M']
+
+    return render_template('macro.html', avg=avg, endpoints = endpoints, years = years, months=months)
 
 @app.route('/micro')
 def micro():
@@ -122,7 +135,7 @@ def micro():
                             brooklynCount=boroCount['KINGS'],siCount=boroCount['RICHMOND'])
 
 
-@app.route('/catetory')
+@app.route('/category')
 def category():
 
     f = open("data/csvjson.json", "r")
@@ -170,7 +183,7 @@ def category():
 
     print(typeCount)
 
-    return render_template('category.html', categories=typeCount.keys(),years=years, year=year, typeCount=typeCount, raceCount=typeCount['Race'],
+    return render_template('category.html', categories=typeCount.keys(), years=years, year=year, typeCount=typeCount, raceCount=typeCount['Race'],
                             religionCount=typeCount['Religion'],sexualityCount=typeCount['Sexual Orientation'],ethnicityCount=typeCount['Ethnicity'],
                             genderCount=typeCount['Gender'],ageCount=typeCount['Age'],disabilityCount=typeCount['Disability'])
 
