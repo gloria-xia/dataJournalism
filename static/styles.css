@@ -1,11 +1,12 @@
 body{
-  background-color: #e2f0ff;
+  background-color: #e9f1fa;
   padding-left: 10;
 }
 
 h1{
   margin-left: 5;
 }
+
 .axis {
   stroke: #333333;
   stroke-width: 2;
@@ -34,7 +35,7 @@ h1{
 }
 
 .lineGraph:hover * {
-  stroke: rgb(255, 242, 0);
+  stroke: rgb(255, 170, 0);
   stroke-width: 3px;
 }
 

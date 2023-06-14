@@ -1,17 +1,29 @@
 <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="800" height="500"> -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="1200" height="550">
 
+    <text class="title" x="150" y="-40">Number of hate crimes in NYC per month from 2019-2023</text>
 
     <line class="axis" x1="100" y1="250" x2="100" y2="0" stroke = "black"/>
-    <line class="axis" x1="100" y1="250" x2="700" y2="250" stroke = "black"/>
+    <line class="axis" x1="100" y1="250" x2="1000" y2="250" stroke = "black"/>
     <!-- <text class="label" x="210" y="275">Year</text> -->
-    <text class="label" x="50" y="150">Number of</text>
-    <text class="label" x="50" y="170"> hate crimes</text>
+    <text class="label" x="30" y="150">Number of</text>
+    <text class="label" x="30" y="165"> hate crimes</text>
+    <text class="label" x="30" y="180"> (per month)</text>
+    <line x1="96" y1="200" x2="104" y2="200" stroke = "black"/>
+    <line x1="96" y1="150" x2="104" y2="150" stroke = "black"/>
+    <line x1="96" y1="100" x2="104" y2="100" stroke = "black"/>
+    <line x1="96" y1="50" x2="104" y2="50" stroke = "black"/>
+    <line x1="96" y1="0" x2="104" y2="0" stroke = "black"/>
 
+    <text class="label" x="85" y="205">20</text>
+    <text class="label" x="85" y="155">40</text>
+    <text class="label" x="85" y="105">60</text>
+    <text class="label" x="85" y="55">80</text>
+    <text class="label" x="85" y="5">100</text>
 
     <g class="lineGraph">
     <{% for point in endpoints %}
-        <line class="lineGraph" x1="{{100+loop.index0*11.2}}" y1="{{200-point[0]*2}}" x2="{{100+(loop.index0+1)*11.2}}" y2="{{200-point[1]*2}}" stroke="black"/>
+        <line class="lineGraph" x1="{{100+loop.index0*14.8}}" y1="{{200-point[0]*2}}" x2="{{100+(loop.index0+1)*14.8}}" y2="{{200-point[1]*2}}" stroke="black"/>
     {% endfor %}>
     </g>
 
@@ -21,5 +33,33 @@
         <line x1="{{100+loop.index0*15}}" y1="{{245}}" x2="{{100+loop.index0*15}}" y2="{{255}}" stroke="black"/>
     {% endfor %}>
     </g>
+
+    <line x1="100" y1="280" x2="100" y2="290" stroke="black"/>
+    <line x1="265" y1="280" x2="265" y2="290" stroke="black"/>
+    <line x1="100" y1="290" x2="265" y2="290" stroke="black"/>
+
+    <line x1="280" y1="280" x2="280" y2="290" stroke="black"/>
+    <line x1="445" y1="280" x2="445" y2="290" stroke="black"/>
+    <line x1="280" y1="290" x2="445" y2="290" stroke="black"/>
+
+    <line x1="460" y1="280" x2="460" y2="290" stroke="black"/>
+    <line x1="625" y1="280" x2="625" y2="290" stroke="black"/>
+    <line x1="460" y1="290" x2="625" y2="290" stroke="black"/>
+
+    <line x1="640" y1="280" x2="640" y2="290" stroke="black"/>
+    <line x1="805" y1="280" x2="805" y2="290" stroke="black"/>
+    <line x1="640" y1="290" x2="805" y2="290" stroke="black"/>
+
+    <line x1="820" y1="280" x2="820" y2="290" stroke="black"/>
+    <line x1="850" y1="280" x2="850" y2="290" stroke="black"/>
+    <line x1="820" y1="290" x2="850" y2="290" stroke="black"/>
+
+    <text class="label" x="180" y="310">2019</text>
+    <text class="label" x="360" y="310">2020</text>
+    <text class="label" x="540" y="310">2021</text>
+    <text class="label" x="720" y="310">2022</text>
+    <text class="label" x="835" y="310">2023</text>
+    
+
 
 </svg>
