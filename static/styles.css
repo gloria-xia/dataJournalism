@@ -1,5 +1,5 @@
 body{
-  background-color: #d5e7fa;
+  background-color: #e2f0ff;
   padding-left: 10;
 }
 
@@ -9,6 +9,9 @@ h1{
 .axis {
   stroke: #333333;
   stroke-width: 2;
+}
+.once {
+  font-size: 14px;
 }
 .line {
   stroke: #222222;
@@ -22,11 +25,24 @@ h1{
   fill: #444444
 }
 .bar {
-  fill: #a9a9a9;
+  fill: #003278;
   opacity: 0.6;
 }
 .bar:hover {
-    fill: #ec008c;
+    fill: #020c27;
     opacity: 1;
+}
+
+.lineGraph:hover * {
+  stroke: rgb(255, 242, 0);
+  stroke-width: 3px;
+}
+
+.graphTitle {
+  font-size: 18px;
+}
+
+.legend {
+  font-size: 45px;
 }
 

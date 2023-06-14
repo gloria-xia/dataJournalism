@@ -54,41 +54,34 @@
 
   <h1>Macro</h1>
 
-  <div>
-    The average number of hate crimes reported each year from 2019-2023 is {{avg}}.
-  </div>
 
   {% include 'macro.svg' %}
 
-  <!-- <form action="/micro" method="GET">
-    <label for="year">Choose a year:</label><br>
-    <select name="year" id="yearSelect">
-      {% for y in years %}
-          {% if y == year %}
-            <option value="{{y}}" selected>{{y}}</option>
-          {% else %}
-            <option value="{{y}}">{{y}}</option>
-          {% endif %}
-      {% endfor %}
-    </select>
-    <input type="submit" value="Submit">
-  <form> -->
+    <div>
+      Across all four years and three months, a total of {{avg*4}} hate crimes were reported across all five boroughs. <br>
+      The average number of hate crimes reported each year from 2019-2023 is {{avg}}. The year with the most total hate crimes was 2022.
+    </div>
+    <br>
 
     <div>
       <h3>
         Key Takeaways: 
       </h3>
       <li>
-        1. The number of hate crimes that occured in NYC had an upwards trend over time.
+        1. The number of hate crimes that occured in NYC had a slight upwards trend over time.
       </li>
       <li>
-        2.  There was a significant increase during 2020-2021. This could have reflected the COVID-19 pandemic, as anti-Asian hate crimes increased drastically during that time period. 
+        2.  There was a significant increase during the summer of 2020. This could have reflected the rise in anti-Asian hate crimes that came with the COVID-19 pandemic. 
       </li>
       <li>
-        3. The numbers decreased after 2021 ish
+        3. The most common category across all years in the dataset was religion.
+      </li>
+      <li>
+        4. Despite the large amounts of hate crimes throughout 2020-2022, the numbers began to decrease in the later half of 2022 and the beginning of 2023.
+        This could have reflected increased awareness around hate crimes, or other factors that led to a decrease.
       </li>
     </div>
-
+<br>
   <footer>
     {% include 'footer.html' %}
   </footer>

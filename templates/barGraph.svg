@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" width="1200" height="1000">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 350" width="1200" height="600">
 
 
     <line class="axis" x1="100" y1="290" x2="100" y2="00" stroke = "black"/>
     <line class="axis" x1="100" y1="290" x2="760" y2="290" stroke = "black"/>
-    <text class="label" x="400" y="345">Category of hate crime</text>
-    <text class="label" x="50" y="150">Number crimes</text>
+    <text class="once" x="350" y="345">Category of hate crime</text>
+    <text class="once" x="0" y="150">Number crimes</text>
 
 
     <g class="barGraph">

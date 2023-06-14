@@ -1,5 +1,5 @@
 <!-- <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" width="800" height="500"> -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="1200" height="1000">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="1200" height="550">
 
 
     <line class="axis" x1="100" y1="250" x2="100" y2="0" stroke = "black"/>
@@ -11,13 +11,14 @@
 
     <g class="lineGraph">
     <{% for point in endpoints %}
-        <line class="lineGraph" x1="{{100+loop.index0*12.5}}" y1="{{200-point[0]*2}}" x2="{{100+(loop.index0+1)*12.5}}" y2="{{200-point[1]*2}}" stroke="black"/>
+        <line class="lineGraph" x1="{{100+loop.index0*11.2}}" y1="{{200-point[0]*2}}" x2="{{100+(loop.index0+1)*11.2}}" y2="{{200-point[1]*2}}" stroke="black"/>
     {% endfor %}>
     </g>
 
     <g class='x-label'>
     <{% for month in months %}
         <text class="label" x="{{100+loop.index0*15}}" y="270">{{month}}</text>
+        <line x1="{{100+loop.index0*15}}" y1="{{245}}" x2="{{100+loop.index0*15}}" y2="{{255}}" stroke="black"/>
     {% endfor %}>
     </g>
 

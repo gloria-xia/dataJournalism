@@ -60,7 +60,7 @@ def macro():
     endpoints =[]
 
     for year in macroData:
-        yearData = macroData[yearData]
+        yearData = macroData[year]
         month = sorted(list(yearData.keys()))
         for i in range (len(yearData)-1):
             tempMonth = month[i]
@@ -130,8 +130,15 @@ def micro():
 
     print(boroCount)
 
+    avg = len(data)/4
+    total = 0
+    for x in boroCount.values():
+        total += x
     
-    return render_template('micro.html',years=years, year=year,queensCount=boroCount['QUEENS'],bronxCount=boroCount['BRONX'],nyCount=boroCount['NEW YORK'],
+    change = abs(round(((avg-total)/avg)*100, 2))
+
+    
+    return render_template('micro.html',years=years, change=change, total=total, avg=avg, year=year,queensCount=boroCount['QUEENS'],bronxCount=boroCount['BRONX'],nyCount=boroCount['NEW YORK'],
                             brooklynCount=boroCount['KINGS'],siCount=boroCount['RICHMOND'])
 
 
@@ -152,40 +159,49 @@ def category():
 
     if year == '2019':
         for point in data:
-            county = point['County']
             category = point['Category']
             if point['Year'] == 2019:
                 typeCount[category] += 1
     elif year == '2020':
         for point in data:
-            county = point['County']
             category = point['Category']
             if point['Year'] == 2020:
                 typeCount[category] += 1
     elif year == '2021':
         for point in data:
-            county = point['County']
             category = point['Category']
             if point['Year'] == 2021:
                 typeCount[category] += 1
     elif year == '2022':
         for point in data:
-            county = point['County']
             category = point['Category']
             if point['Year'] == 2022:
                 typeCount[category] += 1
     else:
         for point in data:
-            county = point['County']
             category = point['Category']
             if point['Year'] == 2023:
                 typeCount[category] += 1
 
     print(typeCount)
 
-    return render_template('category.html', categories=typeCount.keys(), years=years, year=year, typeCount=typeCount, raceCount=typeCount['Race'],
+    total = 0
+    for x in typeCount.values():
+        total += x
+
+    racePercent = round(typeCount['Race']/total*100)
+    religionPercent = round(typeCount['Religion']/total*100)
+    sexualityPercent = round(typeCount['Sexual Orientation']/total*100)
+    ethnicityPercent = round(typeCount['Ethnicity']/total*100)
+    genderPercent = round(typeCount['Gender']/total*100)
+    agePercent = round(typeCount['Age']/total*100)
+    disabilityPercent = round(typeCount['Disability']/total*100)
+
+    return render_template('category.html', categories=typeCount.keys(), total=total, years=years, year=year, typeCount=typeCount, raceCount=typeCount['Race'],
                             religionCount=typeCount['Religion'],sexualityCount=typeCount['Sexual Orientation'],ethnicityCount=typeCount['Ethnicity'],
-                            genderCount=typeCount['Gender'],ageCount=typeCount['Age'],disabilityCount=typeCount['Disability'])
+                            genderCount=typeCount['Gender'],ageCount=typeCount['Age'],disabilityCount=typeCount['Disability'],
+                            racePercent=racePercent, religionPercent=religionPercent, sexualityPercent=sexualityPercent, ethnicityPercent=ethnicityPercent,
+                            genderPercent=genderPercent, agePercent=agePercent,disabilityPercent=disabilityPercent)
 
 
 

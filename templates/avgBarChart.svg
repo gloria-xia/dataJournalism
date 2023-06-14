@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 300" width="500" height="600">
+
+
+    <text class="graphTitle" x="120" y="-110">Number of hate crimes in {{year}} versus</text>
+    <text class="graphTitle" x="160" y="-90">average number per year</text>
+    <line class="axis" x1="100" y1="290" x2="100" y2="00" stroke = "black"/>
+    <line class="axis" x1="100" y1="290" x2="450" y2="290" stroke = "black"/>
+    <text class="label" x="50" y="150">Number of crimes</text>
+    <text class="label" x="200" y="310">{{year}}</text>
+    <text class="label" x="350" y="310">average per year</text>
+    <text class="label" x="350" y="325">(across 2019-2023)</text>
+    <rect class="bar" x="170" y="{{290-total/2}}" width="70" height="{{total/2}}"/>
+    <rect class="bar" x="320" y="{{290-avg/2}}" width="70" height="{{avg/2}}"/>
+    <text class="label" x="200" y="{{270-total/2}}">{{total}}</text>
+    <text class="label" x="350" y="{{270-avg/2}}">{{avg}}</text>
+
+
+
+</svg>

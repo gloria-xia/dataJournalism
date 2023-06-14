@@ -57,6 +57,15 @@
 
   {% include 'barGraph.svg' %}
 
+  <div>
+    In {{year}}, there were a total of {{total}} hate crimes across all five boroughs of NYC.
+    <br>
+    Out of the {{total}} incidents, {{racePercent}}% were against a race, {{religionPercent}}% were against a religion,
+    {{sexualityPercent}}% were against sexual orientation, {{ethnicityPercent}}% were against ethnicity,
+    {{genderPercent}}% were against gender, {{agePercent}}% were against an age group, and {{disabilityPercent}}% were against disability status.
+  </div>
+
+<br>
 
   <footer>
     {% include 'footer.html' %}
